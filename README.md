@@ -12,7 +12,7 @@ Due to private school data, I will not be able to release the .csv data file use
 
 Charlie Zheng Weng
 
-Stony Brook University May 2019
+Stony Brook University, May 2019
 
 Information Systems in Technology Systems Management
 
