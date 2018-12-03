@@ -7,11 +7,15 @@ This is a data analysis project I worked on as an Assessment Intern during Fall 
 **AUTHOR**
 
 Charlie Zheng Weng
+
 Stony Brook University May 2019
+
 Information Systems in Technology Systems Management
 
 **THANKS**
 
 SBU Reservations Office
+
 Michael Boerner, my supervisor
+
 All the guests of the Student Activities Center
