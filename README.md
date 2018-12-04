@@ -16,7 +16,7 @@ Stony Brook University, May 2019
 
 Information Systems in Technology Systems Management
 
-**THANKS**
+**SPECIAL THANKS**
 
 SBU Reservations Office
 
