@@ -1,4 +1,4 @@
-# SAC-Survey
+# Stony Brook Student Activities Center General Usage Survey Report
 
 **README**
 
